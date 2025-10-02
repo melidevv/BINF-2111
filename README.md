@@ -2,7 +2,7 @@
 
 **Name:** Melita Devarapalli  
 **Semester:** Fall 2025  
-**Major:** Business (wi
+**Major:** Health Systems Management
 # Update README (required info)
 cat > README.md <<'EOF'
 # BINF-2111
